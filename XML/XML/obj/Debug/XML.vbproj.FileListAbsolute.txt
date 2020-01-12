@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\XML\XML\bin\Debug\XML.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\XML\XML\bin\Debug\XML.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\XML\XML\bin\Debug\XML.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\XML\XML\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\XML\XML\obj\Debug\XML.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\XML\XML\obj\Debug\XML.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\XML\XML\obj\Debug\XML.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\XML\XML\obj\Debug\XML.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\XML\XML\obj\Debug\XML.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\XML\XML\obj\Debug\XML.pdb
